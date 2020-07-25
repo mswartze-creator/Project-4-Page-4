@@ -148,14 +148,14 @@ div.articles3 {
 
 /* Modifications to Page Four / Inline-Block Layout */
 
-aside.four {
+aside {
 	display: inline-block;
 	vertical-align: top;
 	width: 20%;
 	min-width: 130px;
 	}
 
-div.articles4 {
+div.articles {
 	display: inline-block;
 	vertical-align: top;
 	width: 75%;
@@ -163,13 +163,13 @@ div.articles4 {
 	min-width: 350px;
 	}
 
-.right4 {
+right {
 	float: right;
 	margin: 1em 0em 1em 2em;
 	width: 25%;
 	}
 
-.left4 {
+left {
 	float: left;
 	margin: 1em 2em 1em 0;
 	width: 25%;
